@@ -5,7 +5,7 @@
 
 - :school: Studying `Computer Science Engineering` at [Universidade Aberta](https://portal.uab.pt/)
 - :boom: You can visit [my portfolio](https://baronwork.pt) if you want to see what i've been up to!
-- :email: Feel free to **reach out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=baronix&amp;color=EA4335&amp;style=flat-square)](mailto:baronwork@icloud.com)
+- :email: Feel free to [![Send me Email](https://img.shields.io/static/v1?label=reach&amp;message=out&amp;color=EA4335&amp;style=flat-square)](mailto:baronwork@icloud.com)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
