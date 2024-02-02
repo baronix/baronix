@@ -15,7 +15,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=baronix&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
