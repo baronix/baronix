@@ -7,7 +7,7 @@
 - :boom: You can visit [my portfolio](https://baronwork.pt) if you want to see what i've been up to!
 - :email: Feel free to [![Send me Email](https://img.shields.io/static/v1?label=reach&amp;message=out&amp;color=EA4335&amp;style=flat-square)](mailto:baronwork@icloud.com)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
