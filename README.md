@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunob92/)
 
 - :school: Studying `Computer Science Engineering` at [Universidade Aberta](https://portal.uab.pt/)
-- :boom: You can visit [my portfolio](https://baronwork.pt) if you want to see what i've been up to!
+- :boom: You can visit [my portfolio](https://portfolio-main-tan-six.vercel.app/) if you want to see what i've been up to!
 - :email: Feel free to [![Send me Email](https://img.shields.io/static/v1?label=reach&amp;message=out&amp;color=EA4335&amp;style=flat-square)](mailto:baronwork@icloud.com)
 
 ## My Tech Stack
