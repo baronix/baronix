@@ -1,4 +1,4 @@
-# Hi, i'm Bruno
+# Hi, i'm Bruno B.
 
 [![](https://img.shields.io/badge/-@baronix-%23181717?style=flat-square&logo=github)](https://github.com/baronix)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunob92/)
