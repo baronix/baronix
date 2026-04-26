@@ -5,7 +5,6 @@
 
 - :school: Studying `Computer Science Engineering` at [Universidade Aberta](https://portal.uab.pt/)
 - :camera: See through my camera at [cabum.pt](https://cabum.pt/) 
-- :information_source: Read updated news and articles at [informacaoglobal.com](https://informacaoglobal.com) 
 - :email: Feel free to [![Send me Email](https://img.shields.io/static/v1?label=reach&amp;message=out&amp;color=EA4335&amp;style=flat-square)](mailto:baronwork@icloud.com)
 
 ## My Tech Stack
